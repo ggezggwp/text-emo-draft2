@@ -4,7 +4,7 @@ Text-Emotion-Analysis is a project to develop rule-based and deep learning algor
 
 ### I have two training and validation dataset:
 1. [emotion_data.csv](cleaned_data/emotion_data.csv) in which basic pre-processing of tweets in done (no lemmatization, no removal of stopwords).<br>
-This dataset is comprised of <b>55,774</b> tweets from Twitter with labelled emotions of five classes: <b>Neutral, Happy, Sad, Love, Anger</b>.
+This dataset is comprised of <b>55,774</b> tweets from Twitter with labelled emotions of five classes: <b>Neutral, Happy, Sad, Love, Anger  (still being worked on)0</b>.
 
 2. [emotion_data_prep.csv](cleaned_data/emotion_data_prep.csv) in which more deep pre-processing of tweets in done (lemmatization, removal of stopwords, etc).<br>
-This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emotions of five classes: <b>Neutral, Happy, Sad, Love, Anger</b>.
+This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emotions of five classes: <b>Neutral, Happy, Sad, Love, Anger(still being worked on)</b>.
